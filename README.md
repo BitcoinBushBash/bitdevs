@@ -1,6 +1,7 @@
 # BitDev meetings held at Bush Bashes
 
-## All attendees are encouraged to add to the Issue established for each Bush Bash Bitdevs
+## All attendees are encouraged contribute
+Add your topic to the Issue established for each Bush Bash Bitdevs
 
 ## Please include references
 References, links and background help others familiarise themselves with the content of the topic prior to the BitDevs; that way everyone can bring informed conversation and questions to the discussion
